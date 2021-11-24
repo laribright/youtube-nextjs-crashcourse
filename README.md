@@ -1,3 +1,10 @@
+# Please follow these steps to use the application
+
+## clone or download zip
+## run npm install
+## Add you mongoDB connection string to the following files (index.js, [slug] - index.js, api - newblog.js)
+## start the application - npm run dev
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
