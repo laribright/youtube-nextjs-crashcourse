@@ -2,7 +2,7 @@
 
 ## clone or download zip
 ## run npm install
-## Add you mongoDB connection string to the following files (index.js, [slug] - index.js, api - newblog.js)
+## Add your mongoDB connection string to the following files (index.js, [slug] - index.js, api - newblog.js)
 ## start the application - npm run dev
 
 # Next.js + Tailwind CSS Example
